@@ -3,7 +3,7 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 If You Want Me To Update Regularly you Can Donate Any Amount on My PayPal Id : atulkunal999@gmail.com
 Also Mail Your Name And Screen Shot For Adding in My Repo.
 
-[![PUBG ESP EXAMPLE SCREENSHOT](https://github.com/atulkunal999/pubg_mobile_memory_hacking/blob/main/images/RIXOT_WORKING.png)]
+[PUBG ESP EXAMPLE SCREENSHOT](https://github.com/atulkunal999/pubg_mobile_memory_hacking/blob/main/images/RIXOT_WORKING.png)
 
 ## Referances
 + AimBot Source Semi Part for on Gameloop   
