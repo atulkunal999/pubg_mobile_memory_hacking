@@ -3,6 +3,10 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 
 ![PUBG ESP EXAMPLE SCREENSHOT](https://github.com/atulkunal999/pubg_mobile_memory_hacking/blob/main/images/RIXOT_WORKING.png)
 
+## Important
++ Must build In x64 So drivers Works perfectly
++ Do not forget to include directx
+
 ## Referances
 + AimBot Source Semi Part for on Gameloop   
 Link : [https://www.unknowncheats.me/)  
