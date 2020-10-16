@@ -23,3 +23,11 @@ No One is Here Why :(
 
 #### If you like this document, you can give a star. Thank you
 **INDIAN HACKER X!**
++ INSTAGRAM
+Link : [https://www.instagram.com/indian_hacker_x]
+
++ YOUTUBE
+Link : [http://bit.ly/INDHXYT]
+
++ Discord
+Link : [https://discord.gg/yTBhvX5]
