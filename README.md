@@ -10,6 +10,8 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 ## Important
 + Must build In x64 So drivers Works perfectly
 + Do not forget to include directx
++ If Your are Getting *MAKE SHOURE GAMELOOP IS RUNNING* then you should use unicode charecter set.
++ If your Window not found problem continous then use process Hacker To Find Your Window Classname and Details. 
 
 ## Referances
 + AimBot Source Semi Part for on Gameloop   
