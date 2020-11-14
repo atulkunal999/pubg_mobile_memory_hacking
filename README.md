@@ -13,25 +13,12 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 + If Your are Getting *MAKE SHOURE GAMELOOP IS RUNNING* then you should use unicode charecter set.
 + If your Window not found problem continous then use process Hacker To Find Your Window Classname and Details. 
 + Works On Version 1.1.0
-## Referances
-+ AimBot Source Semi Part for on Gameloop   
-Link : [https://www.unknowncheats.me/)  
-
-+ Offsets and Some Memory Class
-Link : [https://github.com/atiksoftware/pubg_mobile_memory_hacking_examples/]
-
-+ Kernal Driver From CSGO 
-Link : [https://github.com/dretax/GarHal_CSGO]
-
-+ Dsefix For Loading Drivers
-Link : [https://github.com/hfiref0x/DSEFix]
 
 ## DONATIONS
-If You Want Me To Update Regularly you Can Donate Any Amount on My PayPal Id : atulkunal999@gmail.com
-Also Mail Your Name And Screen Shot For Adding in My Repo.
-No One is Here Why :(
++ PayPal Id : atulkunal999@gmail.com
++ I Need PIZZA For This Type of Work If I dont Get Money To buy Pizza Then I Will Die And No One Gonna Update This Repo So, Please Consider Donating Some Money.
++ Also Mail Your Name And Screen Shot For Adding in My Repo.
 
-#### If you like this document, you can give a star. Thank you
 **INDIAN HACKER X!**
 + INSTAGRAM
 Link : [https://www.instagram.com/indian_hacker_x]
@@ -41,3 +28,19 @@ Link : [http://bit.ly/INDHXYT]
 
 + Discord
 Link : [https://discord.gg/yTBhvX5]
+
+## Referances
++ AimBot Source Semi Part for on Gameloop   
+Link : [https://www.unknowncheats.me/]
+
++ Offsets and Some Memory Class
+Link : @atiksoftware
+
++ Kernal Driver
+Link : @dretax
+
+
+#### If you like this document, you can give a star. Thank you
+
++ Dsefix For Loading Drivers
+Link : @hfiref0x
