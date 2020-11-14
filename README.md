@@ -33,14 +33,11 @@ Link : [https://discord.gg/yTBhvX5]
 + AimBot Source Semi Part for on Gameloop   
 Link : [https://www.unknowncheats.me/]
 
-+ Offsets and Some Memory Class
-Link : @atiksoftware
++ Offsets and Some Memory Class : @atiksoftware
 
-+ Kernal Driver
-Link : @dretax
++ Kernal Driver : @dretax
 
++ Dsefix For Loading Drivers : @hfiref0x
 
+WARNING: The project is for research purposes only and is not suitable for production environments, misusage, or commercial use
 #### If you like this document, you can give a star. Thank you
-
-+ Dsefix For Loading Drivers
-Link : @hfiref0x
