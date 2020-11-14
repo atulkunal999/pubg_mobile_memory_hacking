@@ -49,8 +49,8 @@ void Esp::init(){
 		std::cout << termcolor::red << "View World Not Found ! \n" << termcolor::reset;
 		return;
 	}
-	uWorld = viewWordBase - 4416288;
-	gNames = viewWordBase - 4453088;
+	uWorld = viewWordBase - 4514932;
+	gNames = viewWordBase - 4551792;
 	if (ProcessId && uWorld > 0 && gNames > 0)
 	{
 		std::cout << "uWorld : " << termcolor::green << "FOUND" << std::dec << termcolor::reset << "\n";
