@@ -187,13 +187,13 @@ void Esp::update(bool allitems,bool vichlesp,bool lboxshow,bool impitm)
 					pda.TeamID = get<int>(entityAddv + teamIDOffset);
 					pda.energy = Driver.ReadVirtualMemory<float>(ProcessId, entityAddv + energyoffset, sizeof(float));
 					pda.Address = entityAddv;
-					pda.playerW1.itmid = get<int>(get<DWORD>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x0) + 0x4D8) + 0xCC);
-					pda.playerW2.itmid = get<int>(get<DWORD>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x4) + 0x4D8) + 0xCC);
+					pda.playerW1.itmid = get<int>(get<DWORD>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x0) + 0x4E4) + 0xCC);
+					pda.playerW2.itmid = get<int>(get<DWORD>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x4) + 0x4E4) + 0xCC);
 					pda.playerW1.displayName = Utilities::GetBoxItemByboth(pda.playerW1.itmid, "");
 					pda.playerW2.displayName = Utilities::GetBoxItemByboth(pda.playerW2.itmid, "");
-					pda.playerW1.ammoCur = get<int>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x0) + 0x87C);
-					pda.playerW2.ammoCur = get<int>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x4) + 0x87C);
-
+					pda.playerW1.ammoCur = get<int>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x0) + 0x8C8);
+					pda.playerW2.ammoCur = get<int>(get<DWORD>(get<DWORD>(entityAddv + 0x12C) + 0x4) + 0x8C8);
+					
 					if (pda.Address == uMyObject)
 					{
 						myTeamID = pda.TeamID;
