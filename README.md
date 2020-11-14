@@ -13,6 +13,7 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 + If Your are Getting *MAKE SHOURE GAMELOOP IS RUNNING* then you should use unicode charecter set.
 + If your Window not found problem continous then use process Hacker To Find Your Window Classname and Details. 
 + Works On Version 1.1.0
++ Unable to Solve Window Problem Then Use Imgui One 
 
 ## DONATIONS
 + PayPal Id : atulkunal999@gmail.com
