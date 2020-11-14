@@ -24,12 +24,13 @@ DWORD myTeamID = 9999;
 DWORD myplayeradd = 0;
 DWORD controllerOffset = 96;
 DWORD posOffset = 336;
-DWORD healthOffset = 0x810;
-DWORD nameOffset = 0x5E8;
-DWORD teamIDOffset = 1552;
+DWORD velOffset = 416;
+DWORD healthOffset = 2088;
+DWORD nameOffset = 1528;
+DWORD teamIDOffset = 1568;
 DWORD statusOffset = 868;
 DWORD poseOffset = 288;
-DWORD energyoffset = 0x1638;
+DWORD energyoffset = 0x16B0;
 bool isteamwriiten = false;
 
 void Esp::init(){
