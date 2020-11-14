@@ -21,7 +21,7 @@ bool Overlay::create(
     }
 
     std::unique_lock<Mutex> lock( m_mutex );
-    HWND tWnd = tWnd = FindWindow(0, L"NEWAJ>>Sonic official【Turbo AOW Engine-4.4】");
+    HWND tWnd = tWnd = FindWindow(0, L"Gameloop【Turbo AOW Engine-4.4】");
     m_WndTarget = FindWindowEx(tWnd, NULL, L"AEngineRenderWindowClass", NULL);
     if( !m_WndTarget ) {
         return false;
