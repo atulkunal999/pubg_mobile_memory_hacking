@@ -10,7 +10,7 @@ const MARGINS Margin = { -1 };
 char lWindowName[256] = "Its Random";
 HWND hWnd;
 
-char tWindowName[256] = "Gameloop°æTurbo AOW Engine°ø";
+char tWindowName[256] = "Gameloop„ÄêTurbo AOW Engine„Äë";
 HWND tWnd;
 
 RECT tSize;
@@ -157,7 +157,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hSecInstance, LPSTR nCmdLine, 
 	tWnd = FindWindow(0, tWindowName);
 	if (!IsWindow(tWnd))
 	{
-		char tWindowName2[256] = "Gameloop°æTurbo AOW Engine-4.4°ø";
+		char tWindowName2[256] = "Gameloop„ÄêTurbo AOW Engine-4.4„Äë";
 		ZeroMemory(tWindowName, 256);
 		memcpy(tWindowName, tWindowName2, sizeof(tWindowName2));
 		tWnd = FindWindow(0, tWindowName);
@@ -197,7 +197,7 @@ void SetWindowToTarget()
 		tWnd = FindWindow(0, tWindowName);
 		if (!IsWindow(tWnd))
 		{
-			char tWindowName2[256] = "Gameloop°æTurbo AOW Engine-4.4°ø";
+			char tWindowName2[256] = "Gameloop„ÄêTurbo AOW Engine-4.4„Äë";
 			ZeroMemory(tWindowName, 256);
 			memcpy(tWindowName, tWindowName2, sizeof(tWindowName2));
 			tWnd = FindWindow(0, tWindowName);
