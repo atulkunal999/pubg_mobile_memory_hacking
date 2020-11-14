@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="drawing">
+      <UniqueIdentifier>{c378eee7-79d5-475e-94d9-b2dafffd24d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drawing\Color">
+      <UniqueIdentifier>{30383736-1f73-46f6-93bb-70ed96805af2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render">
+      <UniqueIdentifier>{08f63f3f-1013-4599-be0c-3fa5b9140b2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Direct2D">
+      <UniqueIdentifier>{d1367cf3-7872-4500-bc91-a5e4bbe50e4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Direct2D\Surface">
+      <UniqueIdentifier>{881439c7-cb3a-4c3a-a016-097fbac66529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Direct2D\Font">
+      <UniqueIdentifier>{67477d5f-9cc6-40cc-bc49-ea8026b6b599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Direct3D">
+      <UniqueIdentifier>{440681f1-478e-44e0-8876-ecf7eb82d25d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Direct3D\Surface">
+      <UniqueIdentifier>{30d32a99-43fc-42cb-bfe6-ec5535847e92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Direct3D\Font">
+      <UniqueIdentifier>{6b3ba2fc-1f7e-4f12-974b-533c686665e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Surface">
+      <UniqueIdentifier>{ec6c11c2-fd7b-4ba8-961c-7986580a146d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Overlay">
+      <UniqueIdentifier>{dc77c9fa-15ae-455f-a86f-3d9ba39bdbac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render\Font">
+      <UniqueIdentifier>{dd8bc1b8-6e18-4fcc-a87d-5232b69999c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{e95381ab-4d03-45a9-a4dd-6103a1498a00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Color.cpp">
+      <Filter>drawing\Color</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Device2D.cpp">
+      <Filter>render\Direct2D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Font2D.cpp">
+      <Filter>render\Direct2D\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Surface2D.cpp">
+      <Filter>render\Direct2D\Surface</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Device3D9.cpp">
+      <Filter>render\Direct3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Surface3D9.cpp">
+      <Filter>render\Direct3D\Surface</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Font3D9.cpp">
+      <Filter>render\Direct3D\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Overlay.cpp">
+      <Filter>render\Overlay</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Surface.cpp">
+      <Filter>render\Surface</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="include\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_impl_dx9.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="hacks\Esp.cpp" />
+    <ClCompile Include="hacks\MemoryManager.cpp" />
+    <ClCompile Include="hacks\pch.cpp" />
+    <ClCompile Include="hacks\ProcManager.cpp" />
+    <ClCompile Include="hacks\Utilities.cpp" />
+    <ClCompile Include="hacks\screen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\drawing\Color.hpp">
+      <Filter>drawing\Color</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Device2D.hpp">
+      <Filter>render\Direct2D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Font2D.hpp">
+      <Filter>render\Direct2D\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Surface2D.hpp">
+      <Filter>render\Direct2D\Surface</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Device3D9.hpp">
+      <Filter>render\Direct3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Surface3D9.hpp">
+      <Filter>render\Direct3D\Surface</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Font.hpp">
+      <Filter>render\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Overlay.hpp">
+      <Filter>render\Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="include\render\Surface.hpp">
+      <Filter>render\Surface</Filter>
+    </ClInclude>
+    <ClInclude Include="include\stdafx.hpp" />
+    <ClInclude Include="include\render\Font3D9.hpp">
+      <Filter>render\Direct3D\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui_impl_dx9.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="hacks\communications.hpp" />
+    <ClInclude Include="hacks\Esp.h" />
+    <ClInclude Include="hacks\kernelinterface.hpp" />
+    <ClInclude Include="hacks\MemoryManager.h" />
+    <ClInclude Include="hacks\pch.h" />
+    <ClInclude Include="hacks\ProcManager.h" />
+    <ClInclude Include="hacks\termcolor.h" />
+    <ClInclude Include="hacks\Utilities.h" />
+    <ClInclude Include="hacks\screen.h" />
+  </ItemGroup>
+</Project>
