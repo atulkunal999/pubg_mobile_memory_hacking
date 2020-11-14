@@ -55,7 +55,7 @@ void Esp::init(){
 	{
 		std::cout << "uWorld : " << termcolor::green << "FOUND" << std::dec << termcolor::reset << "\n";
 		std::cout << "gNames : " << termcolor::green << "FOUND" << std::dec << termcolor::reset << "\n";
-		std::cout << "\nTo Hide a Specific Team while Spectating Press :" << termcolor::magenta << " NUMPAD ADD [ + ] BUTTON" << std::dec << termcolor::reset << "\n";
+		std::cout << "\n Source : https://github.com/atulkunal999/pubg_mobile_memory_hacking "\n";
 	}
 	if (Driver.hDriver == NULL)
 	{
