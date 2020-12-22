@@ -15,6 +15,14 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 + Works On Version 1.1.0
 + Unable to Solve Window Problem Then Use Imgui One 
 
+## PAID INTERNAL HACK SOURCE
++ DM ME in My Discord Server to Buy.
++ Prise Is Fix 250$ No discount.
++ Draw Like Paid Esp.
++ This Comes With Only Esp And Drivers.
++ I will Show you How To run And use it as Yourself.
++ Screen Resize Works.
+
 ## DONATIONS
 + PayPal Id : atulkunal999@gmail.com
 + I Need PIZZA For This Type of Work If I dont Get Money To buy Pizza Then I Will Die And No One Gonna Update This Repo So, Please Consider Donating Some Money.
