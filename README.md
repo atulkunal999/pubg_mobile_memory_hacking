@@ -36,7 +36,7 @@ Link : [https://www.instagram.com/indian_hacker_x]
 Link : [http://bit.ly/INDHXYT]
 
 + Discord
-Link : [https://discord.gg/yTBhvX5]
+Link : [https://discord.gg/9qraJ2HGUM]
 
 ## Referances
 + AimBot Source Semi Part for on Gameloop   
