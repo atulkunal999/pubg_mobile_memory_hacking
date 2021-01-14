@@ -25,7 +25,7 @@ DWORD myplayeradd = 0;
 DWORD controllerOffset = 96;
 DWORD posOffset = 336;
 DWORD velOffset = 416;
-DWORD healthOffset = 2088;
+DWORD healthOffset = 0x830;
 DWORD nameOffset = 1528;
 DWORD teamIDOffset = 1568;
 DWORD statusOffset = 868;
@@ -49,8 +49,8 @@ void Esp::init(){
 		std::cout << termcolor::red << "View World Not Found ! \n" << termcolor::reset;
 		return;
 	}
-	uWorld = viewWordBase - 4514932;
-	gNames = viewWordBase - 4551792;
+	uWorld = viewWordBase - 4582196;
+	gNames = viewWordBase - 4619344;
 	if (ProcessId && uWorld > 0 && gNames > 0)
 	{
 		std::cout << "uWorld : " << termcolor::green << "FOUND" << std::dec << termcolor::reset << "\n";
