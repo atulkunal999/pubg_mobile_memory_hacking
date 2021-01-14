@@ -11,17 +11,10 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 + Must build In x64 So drivers Works perfectly
 + Do not forget to include directx
 + If Your are Getting *MAKE SHOURE GAMELOOP IS RUNNING* then you should use unicode charecter set.
++ If Window Not Detecting try using FindWindowExW function.
 + If your Window not found problem continous then use process Hacker To Find Your Window Classname and Details. 
-+ Works On Version 1.1.0
-+ Unable to Solve Window Problem Then Use Imgui One 
-
-## PAID INTERNAL HACK SOURCE
-+ DM ME in My Discord Server to Buy.
-+ Prise Is Fix 250$ No discount.
-+ Draw Like Paid Esp.
-+ This Comes With Only Esp And Drivers.
-+ I will Show you How To run And use it as Yourself.
-+ Screen Resize Works.
++ Works On Version 1.2.0
++ Unable to Solve Window Problem Then Use Imgui One
 
 ## DONATIONS
 + PayPal Id : atulkunal999@gmail.com
