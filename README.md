@@ -16,21 +16,6 @@ Hello Everyone I Had Worked For 5-6 Months on this one To Learn and Dev Some thi
 + Works On Version 1.2.0
 + Unable to Solve Window Problem Then Use Imgui One
 
-## DONATIONS
-+ PayPal Id : atulkunal999@gmail.com
-+ I Need PIZZA For This Type of Work If I dont Get Money To buy Pizza Then I Will Die And No One Gonna Update This Repo So, Please Consider Donating Some Money.
-+ Also Mail Your Name And Screen Shot For Adding in My Repo.
-
-**INDIAN HACKER X!**
-+ INSTAGRAM
-Link : [https://www.instagram.com/indian_hacker_x]
-
-+ YOUTUBE
-Link : [http://bit.ly/INDHXYT]
-
-+ Discord
-Link : [https://discord.gg/9qraJ2HGUM]
-
 ## Referances
 + AimBot Source Semi Part for on Gameloop   
 Link : [https://www.unknowncheats.me/]
